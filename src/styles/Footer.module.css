@@ -1,0 +1,18 @@
+
+
+.footer{
+    background-color: black;
+    color: #fff;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3em;
+    border-top: 3px solid #111;
+   
+
+             
+}
+.footerSpan{
+    font-weight: bold;
+}

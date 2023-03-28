@@ -1,0 +1,26 @@
+.navbar{
+    display:flex;
+    background-color: black;
+    padding: 20px 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 1.2em;
+    margin-bottom: 2em;
+    color: #fff;
+   
+   
+}
+.link{
+    color:aliceblue;
+    text-decoration: none;
+    transition: .3s;
+    margin-right: 1rem;
+    border-bottom: 2px solid transparent;
+}
+.linkItem{
+    display: flex;
+    list-style: none;
+}
+.linkItem a:hover{
+    color: #999;
+}

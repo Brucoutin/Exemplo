@@ -1,0 +1,11 @@
+.comment{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+.commentList{
+    margin-left: 10px;
+}
+.itemComment{
+   margin-bottom: 5px;
+}
